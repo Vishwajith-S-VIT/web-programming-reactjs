@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkweb_programming_reactjs=self.webpackChunkweb_programming_reactjs||[]).push([[759],{759:(e,r,n)=>{n.r(r),n.d(r,{default:()=>c});var t=n(43),s=n(579);class a extends t.Component{render(){return(0,s.jsx)(s.Fragment,{children:(0,s.jsx)("h1",{style:{color:"blue",backgroundColor:"black",textAlign:"center"},children:"Styled Heading"})})}}const c=a}}]);
+//# sourceMappingURL=759.cfc1414d.chunk.js.map

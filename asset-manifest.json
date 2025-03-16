@@ -1,19 +1,40 @@
 {
   "files": {
     "main.css": "/web-programming-reactjs/static/css/main.e6c13ad2.css",
-    "main.js": "/web-programming-reactjs/static/js/main.60233484.js",
-    "static/js/830.70963761.chunk.js": "/web-programming-reactjs/static/js/830.70963761.chunk.js",
-    "static/js/869.248c088e.chunk.js": "/web-programming-reactjs/static/js/869.248c088e.chunk.js",
+    "main.js": "/web-programming-reactjs/static/js/main.76b3fef0.js",
+    "static/js/577.c5625448.chunk.js": "/web-programming-reactjs/static/js/577.c5625448.chunk.js",
+    "static/js/458.0eafc824.chunk.js": "/web-programming-reactjs/static/js/458.0eafc824.chunk.js",
+    "static/js/349.63c79d3a.chunk.js": "/web-programming-reactjs/static/js/349.63c79d3a.chunk.js",
+    "static/js/134.40a142d6.chunk.js": "/web-programming-reactjs/static/js/134.40a142d6.chunk.js",
+    "static/js/931.41bab8c6.chunk.js": "/web-programming-reactjs/static/js/931.41bab8c6.chunk.js",
+    "static/js/440.fc661a94.chunk.js": "/web-programming-reactjs/static/js/440.fc661a94.chunk.js",
+    "static/js/759.cfc1414d.chunk.js": "/web-programming-reactjs/static/js/759.cfc1414d.chunk.js",
+    "static/js/910.158d49d5.chunk.js": "/web-programming-reactjs/static/js/910.158d49d5.chunk.js",
+    "static/js/181.71ffb1ff.chunk.js": "/web-programming-reactjs/static/js/181.71ffb1ff.chunk.js",
+    "static/js/708.adad7492.chunk.js": "/web-programming-reactjs/static/js/708.adad7492.chunk.js",
+    "static/js/587.56c1df57.chunk.js": "/web-programming-reactjs/static/js/587.56c1df57.chunk.js",
+    "static/js/90.a86d2dcc.chunk.js": "/web-programming-reactjs/static/js/90.a86d2dcc.chunk.js",
+    "static/js/345.dfb2c36c.chunk.js": "/web-programming-reactjs/static/js/345.dfb2c36c.chunk.js",
     "static/js/453.50bb27e6.chunk.js": "/web-programming-reactjs/static/js/453.50bb27e6.chunk.js",
     "index.html": "/web-programming-reactjs/index.html",
     "main.e6c13ad2.css.map": "/web-programming-reactjs/static/css/main.e6c13ad2.css.map",
-    "main.60233484.js.map": "/web-programming-reactjs/static/js/main.60233484.js.map",
-    "830.70963761.chunk.js.map": "/web-programming-reactjs/static/js/830.70963761.chunk.js.map",
-    "869.248c088e.chunk.js.map": "/web-programming-reactjs/static/js/869.248c088e.chunk.js.map",
+    "main.76b3fef0.js.map": "/web-programming-reactjs/static/js/main.76b3fef0.js.map",
+    "577.c5625448.chunk.js.map": "/web-programming-reactjs/static/js/577.c5625448.chunk.js.map",
+    "458.0eafc824.chunk.js.map": "/web-programming-reactjs/static/js/458.0eafc824.chunk.js.map",
+    "349.63c79d3a.chunk.js.map": "/web-programming-reactjs/static/js/349.63c79d3a.chunk.js.map",
+    "134.40a142d6.chunk.js.map": "/web-programming-reactjs/static/js/134.40a142d6.chunk.js.map",
+    "440.fc661a94.chunk.js.map": "/web-programming-reactjs/static/js/440.fc661a94.chunk.js.map",
+    "759.cfc1414d.chunk.js.map": "/web-programming-reactjs/static/js/759.cfc1414d.chunk.js.map",
+    "910.158d49d5.chunk.js.map": "/web-programming-reactjs/static/js/910.158d49d5.chunk.js.map",
+    "181.71ffb1ff.chunk.js.map": "/web-programming-reactjs/static/js/181.71ffb1ff.chunk.js.map",
+    "708.adad7492.chunk.js.map": "/web-programming-reactjs/static/js/708.adad7492.chunk.js.map",
+    "587.56c1df57.chunk.js.map": "/web-programming-reactjs/static/js/587.56c1df57.chunk.js.map",
+    "90.a86d2dcc.chunk.js.map": "/web-programming-reactjs/static/js/90.a86d2dcc.chunk.js.map",
+    "345.dfb2c36c.chunk.js.map": "/web-programming-reactjs/static/js/345.dfb2c36c.chunk.js.map",
     "453.50bb27e6.chunk.js.map": "/web-programming-reactjs/static/js/453.50bb27e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.60233484.js"
+    "static/js/main.76b3fef0.js"
   ]
 }
