@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkweb_programming_reactjs=self.webpackChunkweb_programming_reactjs||[]).push([[910],{2910:(e,s,r)=>{r.r(s),r.d(s,{default:()=>c});var n=r(5043),t=r(579);class a extends n.Component{render(){return(0,t.jsx)(t.Fragment,{children:(0,t.jsxs)("p",{style:{fontSize:"20px",textAlign:"center"},children:["The sum of squares of x and y is: ",106]})})}}const c=a}}]);
+//# sourceMappingURL=910.854721cd.chunk.js.map

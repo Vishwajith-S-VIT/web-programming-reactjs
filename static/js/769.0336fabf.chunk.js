@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkweb_programming_reactjs=self.webpackChunkweb_programming_reactjs||[]).push([[769],{2769:(e,t,n)=>{n.r(t),n.d(t,{default:()=>i});n(5043);var r=n(579);const i=function(){return(0,r.jsx)("div",{style:{textAlign:"center",height:"100vh",display:"flex",justifyContent:"center",alignItems:"center"},children:(0,r.jsx)("button",{style:{backgroundColor:"grey",color:"darkblue",padding:"10px",fontSize:"20px"},children:"This is a styled button with internal CSS"})})}}}]);
+//# sourceMappingURL=769.0336fabf.chunk.js.map

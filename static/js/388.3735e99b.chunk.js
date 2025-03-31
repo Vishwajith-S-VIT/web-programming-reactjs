@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkweb_programming_reactjs=self.webpackChunkweb_programming_reactjs||[]).push([[388,657],{388:(e,t,r)=>{r.r(t),r.d(t,{default:()=>i});var s=r(43),a=r(657),n=r(579);class c extends s.Component{render(){return(0,n.jsx)("div",{style:{textAlign:"center"},children:(0,n.jsx)("img",{src:a,alt:"Profile Image",height:102,width:69})})}}const i=c},657:(e,t,r)=>{e.exports=r.p+"static/media/PI.374f2827bcfbfeb09758.jpg"}}]);
-//# sourceMappingURL=388.3735e99b.chunk.js.map

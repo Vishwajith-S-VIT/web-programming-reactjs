@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkweb_programming_reactjs=self.webpackChunkweb_programming_reactjs||[]).push([[587],{587:(r,e,t)=>{t.r(e),t.d(e,{default:()=>a});var n=t(43),s=t(579);class i extends n.Component{isPrime(r){if(r<2)return!1;for(var e=2;e<=Math.sqrt(r);e++)if(r%e===0)return!1;return!0}render(){var r=prompt("Enter a number:");return r=parseInt(r),(0,s.jsx)(s.Fragment,{children:(0,s.jsxs)("p",{style:{fontSize:"20px",textAlign:"center"},children:[r," is ",this.isPrime(r)?"Prime":"Not Prime"]})})}}const a=i}}]);
-//# sourceMappingURL=587.56c1df57.chunk.js.map

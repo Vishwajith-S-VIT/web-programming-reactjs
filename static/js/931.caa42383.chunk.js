@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkweb_programming_reactjs=self.webpackChunkweb_programming_reactjs||[]).push([[931],{931:(e,r,s)=>{s.r(r),s.d(r,{default:()=>i});var n=s(43),a=s(579);function t(e){return(0,a.jsx)(a.Fragment,{children:(0,a.jsxs)("h1",{align:"center",children:["Hello, ",e.firstName," ",e.lastName,"!"]})})}class c extends n.Component{render(){return(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(t,{firstName:"Vishwajith",lastName:"S"})})}}const i=c}}]);
-//# sourceMappingURL=931.caa42383.chunk.js.map

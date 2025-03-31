@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkweb_programming_reactjs=self.webpackChunkweb_programming_reactjs||[]).push([[181],{181:(e,n,r)=>{r.r(n),r.d(n,{default:()=>o});var t=r(43),s=r(579);class a extends t.Component{render(){var e=(new Date).getHours()<12?"Good Morning":"Good Evening";return(0,s.jsx)(s.Fragment,{children:(0,s.jsx)("p",{style:{fontSize:"20px",textAlign:"center"},children:e})})}}const o=a}}]);
-//# sourceMappingURL=181.71ffb1ff.chunk.js.map

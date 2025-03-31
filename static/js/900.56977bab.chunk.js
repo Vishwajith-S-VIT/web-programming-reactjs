@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkweb_programming_reactjs=self.webpackChunkweb_programming_reactjs||[]).push([[517,900],{3517:(e,t,n)=>{n.r(t),n.d(t,{default:()=>s});const s={}},8900:(e,t,n)=>{n.r(t),n.d(t,{default:()=>r});n(5043),n(3517);var s=n(579);const r=function(){return(0,s.jsx)("div",{style:{textAlign:"center",height:"100vh",display:"flex",justifyContent:"center",alignItems:"center"},children:(0,s.jsx)("button",{className:"Button",children:"This is a styled button with external css"})})}}}]);
+//# sourceMappingURL=900.56977bab.chunk.js.map
