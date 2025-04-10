@@ -14,7 +14,7 @@ const loadComponent = (folder, file) => {
 function DynamicTable(){
   return (
     <div>
-      <h1 align='center'>My React Exercises </h1>
+      <h1 align='center'>Welcome to Vishwajith's React Exercises</h1>
       <table border="2" cellSpacing={0} cellPadding={5} align='center'>
         <thead>
           <tr>
